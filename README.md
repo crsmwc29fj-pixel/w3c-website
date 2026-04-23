@@ -42,3 +42,4 @@ We use [Craft CMS](https://craftcms.com/) to manage content for the main W3C web
 * [Submit an issue about the CMS](https://github.com/w3c/w3c-website/issues/new?assignees=&labels=cms&template=cms.md&title=)
 
 GitHub repo: [w3c/w3c-website-craft](https://github.com/w3c/w3c-website-craft/) (this repo is currently private)
+:D
